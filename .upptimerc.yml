@@ -2,8 +2,16 @@ owner: zn3x
 repo: ehr_status
 
 sites:
-  - name: Eternal Harmony radio
+  - name: WEB
     url: https://eternalharmonyradio.com/
+  - name: API
+    url: https://eternalharmonyradio.com/api/v1/status
+    expectedStatusCodes:
+      - 401
+  - name: Broadcast server
+    url: https://eternalharmonyradio.com/radio/e7f9bbff-d9c0-2214-5c63-c3f928f873ca.mp3
+    expectedStatusCodes:
+      - 200
 
 status-website:
   cname: status.eternalharmonyradio.com
@@ -13,10 +21,8 @@ status-website:
   introTitle: "Status page"
   introMessage: Monitor downtimes using this status page
   navbar:
-    - title: Eternal harmony radio
+    - title: Radio
       href: https://eternalharmonyradio.com
     - title: Status page source code
       href: https://github.com/$OWNER/$REPO
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+  theme: dark
