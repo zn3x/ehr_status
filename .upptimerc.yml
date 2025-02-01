@@ -15,8 +15,7 @@ sites:
 
 status-website:
   cname: status.eternalharmonyradio.com
-  # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://eternalharmonyradio.com/logo-fa904ad8a40cb4dd.png
   name: Eternal Harmony Radio
   introTitle: "Status page"
   introMessage: Monitor downtimes using this status page
@@ -25,4 +24,4 @@ status-website:
       href: https://eternalharmonyradio.com
     - title: Status page source code
       href: https://github.com/$OWNER/$REPO
-  theme: dark
+  themeUrl: https://status.eternalharmonyradio.com/theme.css
