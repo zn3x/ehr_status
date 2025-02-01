@@ -9,9 +9,9 @@ sites:
     expectedStatusCodes:
       - 401
   - name: Broadcast server
-    url: https://eternalharmonyradio.com/radio/e7f9bbff-d9c0-2214-5c63-c3f928f873ca.mp3
+    url: https://eternalharmonyradio.com/radio/invalid_stream.mp3
     expectedStatusCodes:
-      - 200
+      - 404
 
 status-website:
   cname: status.eternalharmonyradio.com
