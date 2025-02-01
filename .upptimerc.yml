@@ -9,13 +9,13 @@ status-website:
   cname: status.eternalharmonyradio.com
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Eternal Harmony radio** status page"
+  name: Eternal Harmony Radio
+  introTitle: "Status page"
   introMessage: Monitor downtimes using this status page
   navbar:
-    - title: Status
-      href: /
-    - title: GitHub
+    - title: Eternal harmony radio
+      href: https://eternalharmonyradio.com
+    - title: Status page source code
       href: https://github.com/$OWNER/$REPO
 
 # Upptime also supports notifications, assigning issues, and more
