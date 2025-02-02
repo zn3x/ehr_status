@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 352,
-    "timeDay": 352,
-    "timeWeek": 352,
-    "timeMonth": 352,
-    "timeYear": 352,
+    "time": 364,
+    "timeDay": 364,
+    "timeWeek": 364,
+    "timeMonth": 364,
+    "timeYear": 364,
     "dailyMinutesDown": {}
   },
   {
@@ -41,18 +41,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/eternalharmonyradio.com.ico",
     "slug": "broadcast-server",
     "status": "up",
-    "uptime": "37.59%",
-    "uptimeDay": "37.59%",
-    "uptimeWeek": "37.59%",
-    "uptimeMonth": "37.59%",
-    "uptimeYear": "37.59%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 68,
     "timeDay": 68,
     "timeWeek": 68,
     "timeMonth": 68,
     "timeYear": 68,
-    "dailyMinutesDown": {
-      "2025-02-01": 8
-    }
+    "dailyMinutesDown": {}
   }
 ]
