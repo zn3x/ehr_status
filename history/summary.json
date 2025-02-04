@@ -4,43 +4,47 @@
     "url": "https://eternalharmonyradio.com/",
     "icon": "https://icons.duckduckgo.com/ip3/eternalharmonyradio.com.ico",
     "slug": "web",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 437,
-    "timeDay": 601,
+    "timeDay": 596,
     "timeWeek": 437,
     "timeMonth": 437,
     "timeYear": 437,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-02-04": 1
+    }
   },
   {
     "name": "API",
     "url": "https://eternalharmonyradio.com/api/v1/status",
     "icon": "https://icons.duckduckgo.com/ip3/eternalharmonyradio.com.ico",
     "slug": "api",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 47,
     "timeDay": 19,
     "timeWeek": 47,
     "timeMonth": 47,
     "timeYear": 47,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-02-04": 0
+    }
   },
   {
     "name": "Broadcast server",
     "url": "https://eternalharmonyradio.com/radio/invalid_stream.mp3",
     "icon": "https://icons.duckduckgo.com/ip3/eternalharmonyradio.com.ico",
     "slug": "broadcast-server",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -51,6 +55,8 @@
     "timeWeek": 49,
     "timeMonth": 49,
     "timeYear": 49,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-02-04": 0
+    }
   }
 ]
