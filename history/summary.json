@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/eternalharmonyradio.com.ico",
     "slug": "web",
     "status": "up",
-    "uptime": "99.62%",
-    "uptimeDay": "99.07%",
-    "uptimeWeek": "99.62%",
-    "uptimeMonth": "99.62%",
-    "uptimeYear": "99.62%",
-    "time": 433,
-    "timeDay": 504,
-    "timeWeek": 433,
-    "timeMonth": 433,
-    "timeYear": 433,
-    "dailyMinutesDown": {
-      "2025-02-04": 13
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 453,
+    "timeDay": 501,
+    "timeWeek": 453,
+    "timeMonth": 453,
+    "timeYear": 453,
+    "dailyMinutesDown": {}
   },
   {
     "name": "API",
@@ -25,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/eternalharmonyradio.com.ico",
     "slug": "api",
     "status": "up",
-    "uptime": "99.63%",
-    "uptimeDay": "99.09%",
-    "uptimeWeek": "99.63%",
-    "uptimeMonth": "99.63%",
-    "uptimeYear": "99.63%",
-    "time": 51,
-    "timeDay": 43,
-    "timeWeek": 51,
-    "timeMonth": 51,
-    "timeYear": 51,
-    "dailyMinutesDown": {
-      "2025-02-04": 13
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 53,
+    "timeDay": 67,
+    "timeWeek": 53,
+    "timeMonth": 53,
+    "timeYear": 53,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Broadcast server",
@@ -45,18 +41,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/eternalharmonyradio.com.ico",
     "slug": "broadcast-server",
     "status": "up",
-    "uptime": "99.64%",
-    "uptimeDay": "99.11%",
-    "uptimeWeek": "99.64%",
-    "uptimeMonth": "99.64%",
-    "uptimeYear": "99.64%",
-    "time": 52,
-    "timeDay": 44,
-    "timeWeek": 52,
-    "timeMonth": 52,
-    "timeYear": 52,
-    "dailyMinutesDown": {
-      "2025-02-04": 13
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 54,
+    "timeDay": 68,
+    "timeWeek": 54,
+    "timeMonth": 54,
+    "timeYear": 54,
+    "dailyMinutesDown": {}
   }
 ]
