@@ -4,19 +4,19 @@
     "url": "https://eternalharmonyradio.com/",
     "icon": "https://icons.duckduckgo.com/ip3/eternalharmonyradio.com.ico",
     "slug": "web",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 540,
-    "timeDay": 1457,
-    "timeWeek": 693,
-    "timeMonth": 551,
-    "timeYear": 540,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.13%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
+    "time": 541,
+    "timeDay": 1023,
+    "timeWeek": 680,
+    "timeMonth": 553,
+    "timeYear": 541,
     "dailyMinutesDown": {
-      "2025-04-08": 0
+      "2025-04-08": 12
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://eternalharmonyradio.com/api/v1/status",
     "icon": "https://icons.duckduckgo.com/ip3/eternalharmonyradio.com.ico",
     "slug": "api",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 58,
-    "timeDay": 698,
-    "timeWeek": 136,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.15%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
+    "time": 59,
+    "timeDay": 383,
+    "timeWeek": 127,
     "timeMonth": 73,
-    "timeYear": 58,
+    "timeYear": 59,
     "dailyMinutesDown": {
-      "2025-04-08": 0
+      "2025-04-08": 12
     }
   },
   {
