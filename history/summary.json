@@ -4,7 +4,7 @@
     "url": "https://eternalharmonyradio.com/",
     "icon": "https://icons.duckduckgo.com/ip3/eternalharmonyradio.com.ico",
     "slug": "web",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "97.53%",
@@ -16,6 +16,7 @@
     "timeMonth": 544,
     "timeYear": 610,
     "dailyMinutesDown": {
+      "2025-05-12": 0,
       "2025-05-06": 249
     }
   },
