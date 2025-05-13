@@ -5,18 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/eternalharmonyradio.com.ico",
     "slug": "web",
     "status": "up",
-    "uptime": "99.82%",
-    "uptimeDay": "99.10%",
-    "uptimeWeek": "97.40%",
-    "uptimeMonth": "99.40%",
-    "uptimeYear": "99.82%",
-    "time": 608,
-    "timeDay": 471,
-    "timeWeek": 656,
-    "timeMonth": 540,
-    "timeYear": 608,
+    "uptime": "99.83%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "97.53%",
+    "uptimeMonth": "99.43%",
+    "uptimeYear": "99.83%",
+    "time": 605,
+    "timeDay": 371,
+    "timeWeek": 655,
+    "timeMonth": 541,
+    "timeYear": 605,
     "dailyMinutesDown": {
-      "2025-05-12": 13,
       "2025-05-06": 249
     }
   },
@@ -32,9 +31,9 @@
     "uptimeMonth": "99.43%",
     "uptimeYear": "99.83%",
     "time": 55,
-    "timeDay": 63,
+    "timeDay": 19,
     "timeWeek": 42,
-    "timeMonth": 47,
+    "timeMonth": 46,
     "timeYear": 55,
     "dailyMinutesDown": {
       "2025-05-06": 249
@@ -52,9 +51,9 @@
     "uptimeMonth": "99.43%",
     "uptimeYear": "99.83%",
     "time": 51,
-    "timeDay": 63,
+    "timeDay": 19,
     "timeWeek": 43,
-    "timeMonth": 48,
+    "timeMonth": 47,
     "timeYear": 51,
     "dailyMinutesDown": {
       "2025-05-06": 249
