@@ -4,10 +4,10 @@
     "url": "https://eternalharmonyradio.com/",
     "icon": "https://icons.duckduckgo.com/ip3/eternalharmonyradio.com.ico",
     "slug": "web",
-    "status": "up",
+    "status": "down",
     "uptime": "99.52%",
-    "uptimeDay": "44.37%",
-    "uptimeWeek": "92.05%",
+    "uptimeDay": "44.26%",
+    "uptimeWeek": "92.04%",
     "uptimeMonth": "98.04%",
     "uptimeYear": "99.52%",
     "time": 781,
@@ -16,7 +16,7 @@
     "timeMonth": 1089,
     "timeYear": 781,
     "dailyMinutesDown": {
-      "2025-07-16": 38,
+      "2025-07-16": 40,
       "2025-07-15": 762,
       "2025-06-21": 20,
       "2025-06-19": 37,
@@ -29,10 +29,10 @@
     "url": "https://eternalharmonyradio.com/api/v1/status",
     "icon": "https://icons.duckduckgo.com/ip3/eternalharmonyradio.com.ico",
     "slug": "api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.64%",
-    "uptimeDay": "60.10%",
-    "uptimeWeek": "94.30%",
+    "uptimeDay": "60.04%",
+    "uptimeWeek": "94.29%",
     "uptimeMonth": "98.69%",
     "uptimeYear": "99.64%",
     "time": 155,
@@ -41,6 +41,7 @@
     "timeMonth": 493,
     "timeYear": 155,
     "dailyMinutesDown": {
+      "2025-07-16": 1,
       "2025-07-15": 574,
       "2025-05-15": 37,
       "2025-05-06": 249
@@ -51,7 +52,7 @@
     "url": "https://eternalharmonyradio.com/radio/invalid_stream.mp3",
     "icon": "https://icons.duckduckgo.com/ip3/eternalharmonyradio.com.ico",
     "slug": "broadcast-server",
-    "status": "up",
+    "status": "down",
     "uptime": "99.75%",
     "uptimeDay": "75.54%",
     "uptimeWeek": "96.51%",
@@ -63,6 +64,7 @@
     "timeMonth": 1024,
     "timeYear": 303,
     "dailyMinutesDown": {
+      "2025-07-16": 0,
       "2025-07-15": 353,
       "2025-05-06": 249
     }
