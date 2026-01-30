@@ -1,7 +1,7 @@
 url: https://eternalharmonyradio.com/api/v1/status
-status: down
-code: 503
-responseTime: 105
-lastUpdated: 2026-01-30T01:19:46.086Z
+status: up
+code: 401
+responseTime: 65
+lastUpdated: 2026-01-30T02:08:16.891Z
 startTime: 2025-02-01T21:42:32.205Z
 generator: Upptime <https://github.com/upptime/upptime>
