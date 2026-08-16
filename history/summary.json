@@ -4,13 +4,13 @@
     "url": "https://eternalharmonyradio.com/",
     "icon": "https://icons.duckduckgo.com/ip3/eternalharmonyradio.com.ico",
     "slug": "web",
-    "status": "up",
+    "status": "down",
     "uptime": "99.76%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.32%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.96%",
-    "time": 951,
+    "time": 952,
     "timeDay": 517,
     "timeWeek": 300,
     "timeMonth": 456,
@@ -23,7 +23,8 @@
       "2026-01-30": 49,
       "2026-02-20": 21,
       "2026-03-28": 15,
-      "2026-03-29": 41
+      "2026-03-29": 41,
+      "2026-08-16": 10
     }
   },
   {
@@ -31,13 +32,13 @@
     "url": "https://eternalharmonyradio.com/api/v1/status",
     "icon": "https://icons.duckduckgo.com/ip3/eternalharmonyradio.com.ico",
     "slug": "api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.97%",
-    "time": 149,
+    "time": 150,
     "timeDay": 157,
     "timeWeek": 120,
     "timeMonth": 130,
@@ -47,7 +48,8 @@
       "2025-09-17": 15,
       "2026-01-30": 49,
       "2026-02-06": 39,
-      "2026-02-20": 21
+      "2026-02-20": 21,
+      "2026-08-16": 5
     }
   },
   {
@@ -55,9 +57,9 @@
     "url": "https://eternalharmonyradio.com/radio/invalid_stream.mp3",
     "icon": "https://icons.duckduckgo.com/ip3/eternalharmonyradio.com.ico",
     "slug": "broadcast-server",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
@@ -70,7 +72,8 @@
       "2026-01-25": 253,
       "2026-01-24": 31,
       "2026-01-30": 48,
-      "2026-02-20": 20
+      "2026-02-20": 20,
+      "2026-08-16": 0
     }
   }
 ]
