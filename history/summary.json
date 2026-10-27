@@ -4,23 +4,24 @@
     "url": "https://eternalharmonyradio.com/",
     "icon": "https://icons.duckduckgo.com/ip3/eternalharmonyradio.com.ico",
     "slug": "web",
-    "status": "up",
+    "status": "down",
     "uptime": "99.71%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.84%",
-    "time": 827,
-    "timeDay": 285,
-    "timeWeek": 445,
-    "timeMonth": 420,
-    "timeYear": 695,
+    "time": 832,
+    "timeDay": 1724,
+    "timeWeek": 784,
+    "timeMonth": 509,
+    "timeYear": 701,
     "dailyMinutesDown": {
       "2026-01-30": 49,
       "2026-02-20": 21,
       "2026-03-28": 15,
       "2026-03-29": 41,
-      "2026-08-16": 733
+      "2026-08-16": 733,
+      "2026-10-27": 1
     }
   },
   {
@@ -28,22 +29,23 @@
     "url": "https://eternalharmonyradio.com/api/v1/status",
     "icon": "https://icons.duckduckgo.com/ip3/eternalharmonyradio.com.ico",
     "slug": "api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.76%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.84%",
     "time": 81,
-    "timeDay": 129,
-    "timeWeek": 105,
-    "timeMonth": 114,
+    "timeDay": 132,
+    "timeWeek": 108,
+    "timeMonth": 115,
     "timeYear": 90,
     "dailyMinutesDown": {
       "2026-01-30": 49,
       "2026-02-06": 39,
       "2026-02-20": 21,
-      "2026-08-16": 728
+      "2026-08-16": 728,
+      "2026-10-27": 1
     }
   },
   {
@@ -51,23 +53,24 @@
     "url": "https://eternalharmonyradio.com/radio/invalid_stream.mp3",
     "icon": "https://icons.duckduckgo.com/ip3/eternalharmonyradio.com.ico",
     "slug": "broadcast-server",
-    "status": "up",
+    "status": "down",
     "uptime": "99.78%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.80%",
-    "time": 86,
-    "timeDay": 136,
-    "timeWeek": 132,
-    "timeMonth": 123,
-    "timeYear": 96,
+    "time": 92,
+    "timeDay": 1642,
+    "timeWeek": 509,
+    "timeMonth": 221,
+    "timeYear": 104,
     "dailyMinutesDown": {
       "2026-01-25": 253,
       "2026-01-24": 31,
       "2026-01-30": 48,
       "2026-02-20": 20,
-      "2026-08-16": 723
+      "2026-08-16": 723,
+      "2026-10-27": 0
     }
   }
 ]
