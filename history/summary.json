@@ -4,16 +4,16 @@
     "url": "https://eternalharmonyradio.com/",
     "icon": "https://icons.duckduckgo.com/ip3/eternalharmonyradio.com.ico",
     "slug": "web",
-    "status": "down",
-    "uptime": "99.65%",
-    "uptimeDay": "99.32%",
-    "uptimeWeek": "94.08%",
-    "uptimeMonth": "98.64%",
-    "uptimeYear": "99.72%",
-    "time": 820,
-    "timeDay": 626,
-    "timeWeek": 757,
-    "timeMonth": 514,
+    "status": "up",
+    "uptime": "99.60%",
+    "uptimeDay": "68.09%",
+    "uptimeWeek": "89.62%",
+    "uptimeMonth": "97.61%",
+    "uptimeYear": "99.64%",
+    "time": 819,
+    "timeDay": 495,
+    "timeWeek": 718,
+    "timeMonth": 509,
     "timeYear": 700,
     "dailyMinutesDown": {
       "2026-01-30": 49,
@@ -22,7 +22,7 @@
       "2026-03-29": 41,
       "2026-08-16": 733,
       "2026-10-27": 587,
-      "2026-11-01": 10
+      "2026-11-01": 460
     }
   },
   {
@@ -30,16 +30,16 @@
     "url": "https://eternalharmonyradio.com/api/v1/status",
     "icon": "https://icons.duckduckgo.com/ip3/eternalharmonyradio.com.ico",
     "slug": "api",
-    "status": "down",
-    "uptime": "99.70%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "94.13%",
-    "uptimeMonth": "98.65%",
-    "uptimeYear": "99.73%",
+    "status": "up",
+    "uptime": "99.65%",
+    "uptimeDay": "68.42%",
+    "uptimeWeek": "89.67%",
+    "uptimeMonth": "97.62%",
+    "uptimeYear": "99.64%",
     "time": 81,
-    "timeDay": 109,
+    "timeDay": 122,
     "timeWeek": 134,
-    "timeMonth": 122,
+    "timeMonth": 123,
     "timeYear": 91,
     "dailyMinutesDown": {
       "2026-01-30": 49,
@@ -47,7 +47,7 @@
       "2026-02-20": 21,
       "2026-08-16": 728,
       "2026-10-27": 587,
-      "2026-11-01": 5
+      "2026-11-01": 455
     }
   },
   {
@@ -55,16 +55,16 @@
     "url": "https://eternalharmonyradio.com/radio/invalid_stream.mp3",
     "icon": "https://icons.duckduckgo.com/ip3/eternalharmonyradio.com.ico",
     "slug": "broadcast-server",
-    "status": "down",
-    "uptime": "99.72%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "94.18%",
-    "uptimeMonth": "98.66%",
-    "uptimeYear": "99.68%",
+    "status": "up",
+    "uptime": "99.67%",
+    "uptimeDay": "68.76%",
+    "uptimeWeek": "89.72%",
+    "uptimeMonth": "97.63%",
+    "uptimeYear": "99.60%",
     "time": 93,
-    "timeDay": 114,
-    "timeWeek": 464,
-    "timeMonth": 220,
+    "timeDay": 125,
+    "timeWeek": 432,
+    "timeMonth": 218,
     "timeYear": 106,
     "dailyMinutesDown": {
       "2026-01-25": 253,
@@ -73,7 +73,7 @@
       "2026-02-20": 20,
       "2026-08-16": 723,
       "2026-10-27": 586,
-      "2026-11-01": 0
+      "2026-11-01": 450
     }
   }
 ]
